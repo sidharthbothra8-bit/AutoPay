@@ -1,0 +1,2 @@
+# AutoPay
+A web app to manage client invoices and streamline payment follow-ups. Features a landing page to start with a new business or explore a demo company with preloaded data.
